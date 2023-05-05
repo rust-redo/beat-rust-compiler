@@ -1,5 +1,5 @@
-mod long_lifetime;
+mod long_lifetime1;
 
 fn main() {
-  long_lifetime::run();
+  long_lifetime1::run();
 }
